@@ -1,0 +1,7 @@
+INTEGRANTES DEL PROYECTO
+
+- Andrea Mamani Galarza
+- Nombre de tu compañero
+
+Curso: Técnicas de Programación Orientadas a Objetos
+Actividad: Colaboración en GitHub (ramas, commits y pull requests)
