@@ -5,3 +5,5 @@ INTEGRANTES DEL PROYECTO
 
 Curso: Técnicas de Programación Orientadas a Objetos
 Actividad: Colaboración en GitHub (ramas, commits y pull requests)
+
+Cambio realizado desde rama-1
